@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 5
+    },
+    {
+      "name": "hà tiến dũng",
+      "image": {
+        "0": {}
+      },
+      "price": "150.000",
+      "description": "du lịch hàng đầu việt nam",
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category A update 4"
+    },
+    {
+      "name": "Category B",
+      "id": 2
+    }
+  ]
+}
